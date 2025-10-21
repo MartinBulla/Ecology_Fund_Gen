@@ -1,5 +1,9 @@
 ## Study material for courses "Ecology: Fundamentals & General"
  
+#### by Martin Bulla & Peter Mikula
+
+***
+
 ### Lectures and accompanying materials will become available after each lecture.
 
 ***
