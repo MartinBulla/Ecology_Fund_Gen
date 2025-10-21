@@ -1,0 +1,45 @@
+Name	Present	Group
+Abilhasanov Jeyhun	1	9
+Azat Aibar	1	6
+Begaj Dorisena		
+Cagatay Isik		
+Daniiarov Zhantai		
+Gurbanzade Mahmud	1	5
+Iliasova Aliza		
+Kindt Zoe		
+Kocaturkmen Sena	1	4
+Naing Htin Lin	1	3
+Novruzov Elvin	1	6
+Pereira de Barros Helena	1	4
+Roithmeier Martina, Bc.	1	2
+Saran Abhishek		
+Singh Angleen		
+Sithu Kyaw	1	3
+Skokanova Simona	1	7
+Turan Aleyna	1	4
+Alkan Selin	1	10
+Cusumano Julia	1	8
+Cutova Lujza	1	3
+Efe Egemen	1	7
+Estanol Carrion Clara	1	8
+Garcia Gallo Antonio	1	2
+Hahn Dennis	1	10
+Cherchelanova Elena	1	10
+Choi Inseo	1	6
+Jary Ladislav	1	1
+Kadlec Lukas	1	8
+Kohnen Evelyn Grace	1	1
+Kolowrat Alexie	1	9
+Kotrous Matej	1	10
+Malik Parv	1	8
+Nathan Ifeanyi Dandy		
+Pastrana Jessel Varinka	1	5
+Polackova Nela Anna	1	4
+San Khin Chuu	1	5
+Sobotka Vojtech	1	2
+Garcia Ramis Clara	1	9
+Harrison Nate	1	5
+Henriques Kaelin	1	7
+Johnsonova Nicole	1	1
+Tan Hao	1	9
+Vadher Jaydeep	1	2
