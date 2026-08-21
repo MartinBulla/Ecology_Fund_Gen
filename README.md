@@ -4,14 +4,14 @@
 
 ***
 
-### Lectures and accompanying materials will become available after each lecture.
+### Lecture slides and accompanying materials will become available after each lecture.
 
 ***
 
 ### CONTENT
-[_Exam](Symposium): will contain student presentations.
-
 [_Lectures](_Lectures): slides for each passed lecture will appear here.
+
+[_Symposium](Symposium): student presentations.
 
 [_Topics_Groups_PDFs](_Topics_Groups_PDFs): [list](topics_&_groups.pdf) with allocation of students to groups and topic, and [PDFs_of_papers](PDFs_of_papers) with the papers for each topic.
 
