@@ -9,7 +9,7 @@
 ***
 
 ### CONTENT
-[_Lectures](_Lectures): slides for each passed lecture will appear here.
+[_Lectures](_Lectures): slides for each passed lecture.
 
 [_Symposium](Symposium): student presentations.
 
