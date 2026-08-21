@@ -1,5 +1,5 @@
 ## Study material for courses "Ecology: Fundamentals & General"
- 
+
 #### by Martin Bulla & Peter Mikula
 
 ***
@@ -9,8 +9,8 @@
 ***
 
 ### CONTENT
-
-[_Lectures](_Lectures): slides for each lecture.  
-[_Topics_Groups_PDFs](_Topics_Groups_PDFs): [list](topics_&_groups.pdf) with allocation of students to groups and topic and [PDFs_of_papers](PDFs_of_papers) with the papers for each topic.  
-[Data](Data): contains data used in the lectures.  
-[Symposium](Symposium): will contain student presentations.  
+[_Exam_](Symposium): student presentations.
+[_Lectures](_Lectures): slides for each lecture.
+[_Topics_Groups_PDFs](_Topics_Groups_PDFs): [list](topics_&_groups.pdf) with allocation of students to groups and topic, and [PDFs_of_papers](PDFs_of_papers) with the papers for each topic.
+[Data](Data): contains data used in the lectures.
+[R](R): contains R-scripts used in the lectures.
