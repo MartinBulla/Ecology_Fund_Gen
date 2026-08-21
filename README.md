@@ -9,7 +9,7 @@
 ***
 
 ### CONTENT
-[_Exam_](Symposium): student presentations.
+[_Exam](Symposium): student presentations.
 
 [_Lectures](_Lectures): slides for each lecture.
 
