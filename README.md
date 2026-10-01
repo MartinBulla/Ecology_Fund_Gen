@@ -13,7 +13,7 @@
 
 [_Symposium](_Symposium): student presentations.
 
-[_Topics_Groups_PDFs](_Topics_Groups_PDFs): [list](2026_topics_&_groups.pdf) with allocation of students to groups and topic, and [PDFs_of_papers](_Topics_Groups_PDFs/PDFs_of_papers) with the papers for each topic.
+[_Topics_Groups_PDFs](/_Topics_Groups_PDFs/): [list](/_Topics_Groups_PDFs/2026_topics_%26_groups.pdf) with allocation of students to groups and topic, and [PDFs_of_papers](/_Topics_Groups_PDFs/PDFs_of_papers/) with the papers for each topic.
 
 [Data](Data): contains data used in the lectures.
 
